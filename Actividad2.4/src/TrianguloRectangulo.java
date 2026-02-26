@@ -4,7 +4,7 @@ public class TrianguloRectangulo {
     int altura;
     double hipotenusa;
     
-    public TrianguloRectangulo(int base, int altura) {
+    TrianguloRectangulo(int base, int altura) {
         this.base = base;
         this.altura = altura;
     }
