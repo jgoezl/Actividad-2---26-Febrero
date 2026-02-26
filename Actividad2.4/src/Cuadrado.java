@@ -2,7 +2,7 @@ package actividad2.pkg4;
 public class Cuadrado {
     int lado;
     
-    public Cuadrado(int lado) {
+    Cuadrado(int lado) {
         this.lado = lado;
     }
     
